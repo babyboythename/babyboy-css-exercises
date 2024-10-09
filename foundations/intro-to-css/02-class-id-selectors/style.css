@@ -1,0 +1,24 @@
+.odd,
+.odd2 {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+.odd2 {
+    font-size: 24px;
+
+}
+
+#n2 {
+    color: blue;
+    font-size: 36px;
+
+}
+
+#n3 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
